@@ -1,0 +1,4 @@
+module.exports = {
+  secret : "your secret for session token",
+  dbPwd : "db password"
+};
